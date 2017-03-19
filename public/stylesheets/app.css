@@ -1,0 +1,49 @@
+
+body {
+background: #000000; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #000000 , #e74c3c); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #000000 , #e74c3c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */ 
+    
+}
+
+.container.segment{
+    margin-top: 8em; 
+    height: 80%;
+}
+
+#aboutMe {
+    color:  #D32323;
+}
+
+.inverted {
+    color: red;
+}
+
+#NSTABP {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.yelp.icon {
+     color:#D32323;
+     text-align: center;
+     font-weight: bold;
+}
+
+.ui.inverted.menu .item, .ui.inverted.menu .item>a:not(.ui) {
+    font-size: 20px;
+    color: white;
+}
+.ui.menu:not(.vertical) .item>.button {
+    font-size: 22px;
+
+}
+
+p {
+    font-size: 18px;
+}
+
+.signature {
+    text-align: right;
+}

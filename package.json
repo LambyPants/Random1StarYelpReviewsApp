@@ -1,0 +1,19 @@
+{
+  "name": "yelp",
+  "version": "1.0.0",
+  "description": "Yelp API Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Ryan Lambert",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "faker": "^3.1.0",
+    "request": "^2.79.0",
+    "yelp-fusion": "^1.0.3"
+  }
+}
